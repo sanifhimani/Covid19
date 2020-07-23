@@ -10,6 +10,6 @@ import Foundation
 
 class Constants {
     static var urlString: String = "https://covid-193.p.rapidapi.com/statistics"
-    static let apiKey: String = "da59346334msh83a66419d50b2a2p11361djsnaff7d6991309"
+    static let apiKey: String = "INSERT_API_KEY"
     static let helplineNumber: Int = 911
 }
